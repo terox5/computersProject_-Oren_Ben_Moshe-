@@ -1,12 +1,12 @@
 
 
 
-# Written by Oren Ben-Moshe, 308249754"
-# This program will take an input file that should include x, dx, y, dy and will process"
-# the data given into one final linear fit graph. It will, in addition, provide the fitting parameters"
-# a, b, da, db, and chi^2 and chi^2 reduced."
+# Written by Oren Ben-Moshe, 308249754
+# This program will take an input file that should include x, dx, y, dy and will process
+# the data given into one final linear fit graph. It will, in addition, provide the fitting parameters
+# a, b, da, db, and chi^2 and chi^2 reduced.
 
-# PLEASE NOTE: In order to run the program, it is necessary to have the PyPlot addon installed for the PyCharm project."
+# PLEASE NOTE: In order to run the program, it is necessary to have the PyPlot addon installed for the PyCharm project.
 # In addition, all of the equations provided for this project were all given in the project instructions PDF.
 
 
